@@ -1,3 +1,4 @@
+//nama Alfabel
 <?php
 echo "<br>silahkan pilih opsi\n";
 echo "<br>[1] menampilkan rata - rata\n";
